@@ -418,30 +418,4 @@ g .para13{
     }
   }
   
-  /* /* @media screen and (max-width: 768px) {
-    /* .navbar {
-      flex-direction: column;
-      height: auto;
-      padding: 10px;
-    }
   
-    .navbar .navg {
-      width: 100%;
-      justify-content: center;
-      margin: 10px 0;
-    }
-  
-    .navbar .logo {
-      order: -1;
-      margin-bottom: 10px;
-    } */
-  
-    /* .hero h1 {
-      font-size: 60px;
-      line-height: 70px;
-    }
-  
-    .projects {
-      grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
-    }
-   */  
