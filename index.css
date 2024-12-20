@@ -1,3 +1,13 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Cutive&family=Lato:wght@400;700&family=Syne:wght@400..800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cutive&family=Lato&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cutive&family=Kumbh+Sans:wght@100..900&family=Lato:wght@400;700&family=Syne:wght@400..800&display=swap'); */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
 
 .navbar {
     background-color: #181818; 
@@ -59,14 +69,14 @@ body {
     font-weight: 900;
     font-size: 120px;
     line-height: 120px;
-    
+    /* or 100% */
     text-align: center;
     letter-spacing: -0.02rem;
 
     color: #FFFFFF;
 
 
-
+/* Inside auto layout */
     flex: none;
     order: 0;
     align-self: stretch;
@@ -227,8 +237,8 @@ margin-bottom: 2rem;
 display: flex;
 justify-content: space-between; 
 gap: 1rem; 
-flex-wrap: wrap;
-}
+flex-wrap: wrap;}
+
   
 .testimonial {
 background-color: #111; 
